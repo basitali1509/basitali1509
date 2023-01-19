@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basitali1509" alt="basitali1509" /></a> </p>
 
-- 💬 Ask me about Android studio, Android fundamentals, **Kotlin**
+- 💬 Ask me about Android Studio, Android Fundamentals, **Kotlin**, Data Structures and Algorithms and Object Oriented Programming.
 
 - 📫 How to reach me **basitali71019@gmail.com**
 
