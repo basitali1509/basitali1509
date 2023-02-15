@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basit Ali</h1>
-<h3 align="center">Native Android Application developer</h3>
+<h3 align="center">Mobile Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basitali1509&label=Profile%20views&color=0e75b6&style=flat" alt="basitali1509" /> </p>
 
