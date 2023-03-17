@@ -5,11 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=basitali1509" alt="basitali1509" /> </a> </p> -->
 
-- 💬 Ask me about Android Studio, Android Fundamentals, **Kotlin**, Data Structures and Algorithms and Object Oriented Programming.
+- 💬 Ask me about **Flutter**, **Dart**, **Kotlin**, **Data Structures and Algorithms**, **Object Oriented Programming**, **Problem Solving**
 
 - 📫 How to reach me **basitali71019@gmail.com**
 
-- ⚡ Fun fact **Code for android but want a MacBook**
+- ⚡ Fun fact **Code for Android but want a MacBook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
