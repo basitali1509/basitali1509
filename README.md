@@ -5,9 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=basitali1509" alt="basitali1509" /> </a> </p> -->
 
-- 💬 Ask me about **Flutter**, **Dart**, **Kotlin**, **Data Structures and Algorithms**, **Object Oriented Programming**, **Problem Solving**
+- 💬 Ask me about **Flutter**, **Dart**, **C++**, **Data Structures and Algorithms**, **Object Oriented Programming**, **Problem Solving**
 
 - 📫 How to reach me **basitali71019@gmail.com**
+
+- Check out my portfolio: [https://basitali1509.github.io/#/](https://basitali1509.github.io/#/)
 
 - ⚡ Fun fact **Code for Android but want a MacBook**
 
@@ -18,7 +20,47 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin-right: 65px;" />
+</a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" style="margin-right: 65px;" />
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40" style="margin-right: 65px;" />
+</a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin-right: 65px;" />
+</a>
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin-right: 65px;" />
+</a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin-right: 65px;" />
+</a>
+  
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 35px;" />
+</a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="38" style="margin-right: 35px;" />
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 35px;" />
+</a>
+<a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" style="margin-right: 35px;" />
+</a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" style="margin-right: 35px;" />
+</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 35px;" />
+</a>
+
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basitali1509&show_icons=true&locale=en&layout=compact" alt="basitali1509" /></p>
 
