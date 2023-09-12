@@ -1,25 +1,15 @@
 <h1 align="center">Hi 👋, I'm Basit Ali</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basitali1509&label=Profile%20views&color=0e75b6&style=flat" alt="basitali1509" /> </p>
+# 💫 About Me
+🔭 I’m working as an <b><i>open-source contributor</i></b><br>📫 How to reach me basitali71019@gmail.com<br>⚡ Fun fact <b>Code for Android but want a MacBook</b><br><br>Check out my portfolio: https://basitali1509.github.io/#/
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=basitali1509" alt="basitali1509" /> </a> </p> -->
 
-- 💬 Ask me about **Flutter**, **Dart**, **C++**, **Data Structures and Algorithms**, **Object Oriented Programming**, **Problem Solving**
+## 🌐 Find Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/basit-ali-code404/) 
 
-- 📫 How to reach me **basitali71019@gmail.com**
+# 💻 Tech Stack
 
-- Check out my portfolio: [https://basitali1509.github.io/#/](https://basitali1509.github.io/#/)
-
-- ⚡ Fun fact **Code for Android but want a MacBook**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/basit-ali-code404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basit-ali-2a7381212" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__basit__ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__basit__ali" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -58,15 +48,21 @@
 <a href="https://git-scm.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 35px;" />
 </a>
-
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basitali1509&show_icons=true&locale=en&layout=compact" alt="basitali1509" /></p>
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=basitali1509&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=basitali1509&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=basitali1509&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basitali1509&show_icons=true&locale=en" alt="basitali1509" /></p>
 
-<!---
-basitali1509/basitali1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=basitali1509&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=basitali1509&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
