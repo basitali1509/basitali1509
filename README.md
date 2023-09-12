@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Basit Ali</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basitali1509&label=Profile%20views&color=0e75b6&style=flat" alt="basitali1509" /> </p>
+
 # 💫 About Me
 🔭 I’m working as an <b><i>open-source contributor</i></b><br>📫 How to reach me basitali71019@gmail.com<br>⚡ Fun fact <b>Code for Android but want a MacBook</b><br><br>Check out my portfolio: https://basitali1509.github.io/#/
 
