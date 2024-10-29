@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, I'm Basit Ali</h1>
-<h3 align="center">Mobile Application Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basitali1509&label=Profile%20views&color=0e75b6&style=flat" alt="basitali1509" /> </p>
 
 # 💫 About Me
-🔭 I’m working as a <b>Software Engineer</b><br>📫 How to reach me basitali71019@gmail.com<br>⚡ Fun fact <b>Code for Android but want a MacBook</b><br><br>Check out my portfolio: https://basitali1509.github.io/#/
+🔭 I’m working as a <b>Software Engineer</b><br>📫 How to reach me basitali71019@gmail.com<br></b><br><br>Check out my portfolio: https://basitali1509.github.io/#/
 
 
 ## 🌐 Find Me
