@@ -6,6 +6,9 @@
 # 💫 About Me
 🔭 I’m working as a <b>Software Engineer</b><br>📫 How to reach me basitali71019@gmail.com<br></b><br><br>Check out my portfolio: https://basitali1509.github.io/#/
 
+### Check out my paper
+https://rxiv.org/abs/2501.0154
+
 
 ## 🌐 Find Me
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/basit71019) 
